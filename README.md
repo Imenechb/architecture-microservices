@@ -1,5 +1,5 @@
 ﻿projet réalisé par Imen CHEBBI, William Niabia et Jean Ragueneau
-Node Js - MicroService projet
+projet micro-services
 Liste des modules à installer pour chaque micro-service :
 
 Back
